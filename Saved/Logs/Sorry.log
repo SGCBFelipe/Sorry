@@ -1184,3 +1184,101 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2025.06.09-20.10.15:686][859]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
 [2025.06.09-20.10.32:079][908]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
 [2025.06.09-20.16.07:696][861]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2025.06.09-20.18.39:242][313]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2025.06.09-20.20.28:528][638]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2025.06.09-20.22.14:680][973]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2025.06.09-20.23.47:713][267]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2025.06.09-20.24.25:555][380]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2025.06.09-20.25.38:624][597]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2025.06.09-20.26.06:505][755]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2025.06.09-20.26.16:912][786]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2025.06.09-20.26.30:980][828]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2025.06.09-20.27.02:676][922]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2025.06.09-20.27.35:774][191]LogRenderer: Reallocating scene render targets to support 904x560 Format 10 NumSamples 1 (Frame:401).
+[2025.06.09-20.28.30:483][464]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Table)
+[2025.06.09-20.28.33:194][517]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2025.06.09-20.28.34:112][539]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2025.06.09-20.28.36:255][590]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2025.06.09-20.28.36:901][604]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Chair)
+[2025.06.09-20.29.09:211][382]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2025.06.09-20.29.13:441][481]Cmd: DELETE
+[2025.06.09-20.29.13:441][481]Cmd: ACTOR DELETE
+[2025.06.09-20.29.13:528][481]LogEditorActor: Deleted Actor: Character
+[2025.06.09-20.29.13:585][481]LogUObjectHash: Compacting FUObjectHashTables data took   4.14ms
+[2025.06.09-20.29.13:684][481]LogEditorActor: Deleted 1 Actors (0.205 secs)
+[2025.06.09-20.29.17:787][586]Cmd: DELETE
+[2025.06.09-20.29.17:787][586]Cmd: ACTOR DELETE
+[2025.06.09-20.29.17:796][586]LogEditorActor: Deleted Actor: PlayerStart
+[2025.06.09-20.29.17:826][586]LogUObjectHash: Compacting FUObjectHashTables data took   2.34ms
+[2025.06.09-20.29.17:838][586]LogEditorActor: Deleted 1 Actors (0.051 secs)
+[2025.06.09-20.29.23:855][756]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (Player Start)
+[2025.06.09-20.29.48:735][416]LogTemp: Repeating last play command: Selected Viewport
+[2025.06.09-20.29.48:776][416]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.06.09-20.29.48:809][416]PIE: New page: PIE session: Minimal_Default (Jun 9, 2025, 2:29:48 PM)
+[2025.06.09-20.29.48:828][416]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2025.06.09-20.29.48:834][416]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2025.06.09-20.29.48:835][416]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2025.06.09-20.29.48:877][416]LogPlayLevel: PIE: StaticDuplicateObject took: (0.041015s)
+[2025.06.09-20.29.48:908][416]LogAIModule: Creating AISystem for world Minimal_Default
+[2025.06.09-20.29.48:911][416]LogPlayLevel: PIE: World Init took: (0.033255s)
+[2025.06.09-20.29.48:911][416]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.076073s)
+[2025.06.09-20.29.48:919][416]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2025.06.09-20.29.48:922][416]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2025.06.09-20.29.48:924][416]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.06.09-20.29.48:924][416]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.06.09-20.29.48:924][416]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.06.09-20.29.48:924][416]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.06.09-20.29.48:924][416]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2025.06.09-20.29.48:924][416]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.06.09-20.29.48:924][416]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2025.06.09-20.29.48:924][416]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.06.09-20.29.48:928][416]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.06.09-20.29.48:928][416]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.06.09-20.29.48:928][416]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.06.09-20.29.48:928][416]LogAudioMixer: Display: Initializing audio mixer.
+[2025.06.09-20.29.48:938][416]LogAudioMixer: Display: 0: FrontLeft
+[2025.06.09-20.29.48:938][416]LogAudioMixer: Display: 1: FrontRight
+[2025.06.09-20.29.48:947][416]LogAudioMixer: Display: Using Audio Device EPSON PJ (HD Audio Driver for Display Audio)
+[2025.06.09-20.29.48:952][416]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.06.09-20.29.48:953][416]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.06.09-20.29.48:953][416]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.06.09-20.29.48:964][416]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2025.06.09-20.29.48:965][416]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2025.06.09-20.29.48:965][416]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2025.06.09-20.29.48:966][416]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2025.06.09-20.29.48:966][416]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2025.06.09-20.29.48:966][416]LogInit: FAudioDevice initialized.
+[2025.06.09-20.29.48:966][416]LogAudio: Display: Audio Device (ID: 2) registered with world 'Minimal_Default'.
+[2025.06.09-20.29.49:000][416]LogLoad: Game class is 'GameModeBase'
+[2025.06.09-20.29.49:013][416]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 60) at 2025.06.09-17.29.49
+[2025.06.09-20.29.49:014][416]LogWorld: Bringing up level for play took: 0.003759
+[2025.06.09-20.29.49:019][416]LogOnline: OSS: Creating online subsystem instance for: :Context_3
+[2025.06.09-20.29.49:052][416]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MovieSceneCapture' in 0.0031 seconds. Added 20 classes and 0 folders.
+[2025.06.09-20.29.49:066][416]PIE: Server logged in
+[2025.06.09-20.29.49:067][416]PIE: Play in editor total start time 0.297 seconds.
+[2025.06.09-20.30.04:848][910]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.06.09-20.30.04:848][910]LogWorld: BeginTearingDown for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2025.06.09-20.30.04:851][910]LogWorld: UWorld::CleanupWorld for Minimal_Default, bSessionEnded=true, bCleanupResources=true
+[2025.06.09-20.30.04:853][910]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.09-20.30.04:868][910]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.06.09-20.30.04:894][910]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.09-20.30.04:901][910]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.06.09-20.30.04:903][910]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2025.06.09-20.30.04:905][910]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2025.06.09-20.30.04:908][910]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.06.09-20.30.04:914][910]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2025.06.09-20.30.04:947][911]LogPlayLevel: Display: Destroying online subsystem :Context_3
+[2025.06.09-20.30.53:533][ 68]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2025.06.09-20.31.03:966][ 98]LogSlate: Took 0.002596 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2025.06.09-20.31.13:279][125]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2025.06.09-20.31.13:363][125]LogSavePackage: Moving '../../../../../../Users/SuperGeeks/Documents/Unreal Projects/SEG16h30TCC/Sorry/Saved/Minimal_Default_Auto129DC4D234E71EAE768FAA5A55769D307.tmp' to '../../../../../../Users/SuperGeeks/Documents/Unreal Projects/SEG16h30TCC/Sorry/Saved/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto1.umap'
+[2025.06.09-20.31.13:377][125]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/StarterContent/Maps/Minimal_Default' took 0.112
+[2025.06.09-20.31.13:377][125]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.112
+[2025.06.09-20.31.27:950][170]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2025.06.09-20.32.04:239][400]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2025.06.09-20.32.04:281][400]LogSavePackage: Moving '../../../../../../Users/SuperGeeks/Documents/Unreal Projects/SEG16h30TCC/Sorry/Saved/Minimal_Default37241C4D4D2568F40539F09C63FC29C3.tmp' to '../../../../../../Users/SuperGeeks/Documents/Unreal Projects/SEG16h30TCC/Sorry/Content/StarterContent/Maps/Minimal_Default.umap'
+[2025.06.09-20.32.04:375][400]LogSavePackage: Moving '../../../../../../Users/SuperGeeks/Documents/Unreal Projects/SEG16h30TCC/Sorry/Saved/Minimal_Default_BuiltData5F4F3DB64399B848E2C672B1FFA9CCBF.tmp' to '../../../../../../Users/SuperGeeks/Documents/Unreal Projects/SEG16h30TCC/Sorry/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset'
+[2025.06.09-20.32.04:426][400]AssetCheck: New page: Asset Save: multiple assets
+[2025.06.09-20.32.04:426][400]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/StarterContent/Maps/Minimal_Default_BuiltData.Minimal_Default_BuiltData
+[2025.06.09-20.32.04:427][400]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
+[2025.06.09-20.32.17:208][464]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
