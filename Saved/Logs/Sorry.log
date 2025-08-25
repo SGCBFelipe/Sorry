@@ -1394,3 +1394,99 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2025.08.25-20.14.36:818][556]OBJ SavePackage: Finished generating thumbnails for package [/Game/bandeiras/Flag_of_Brazil_svg_Mat]
 [2025.08.25-20.14.36:823][556]LogSavePackage: Moving '../../../../../../Users/rafael.anastácio/Documents/GitHub/Sorry/Saved/Flag_of_Brazil_svg_Mat_Auto21BA6FFDD47B8361F4130618079B06CB7.tmp' to '../../../../../../Users/rafael.anastácio/Documents/GitHub/Sorry/Saved/Autosaves/Game/bandeiras/Flag_of_Brazil_svg_Mat_Auto2.uasset'
 [2025.08.25-20.14.36:823][556]LogFileHelpers: Auto-saving content packages took 0.071
+[2025.08.25-21.07.47:892][677]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{88017174-9696-41b8-ba5d-d960dae3b194}.
+[2025.08.25-21.07.47:892][677]LogAudioMixer: Resetting audio stream to device id 
+[2025.08.25-21.07.47:895][677]LogAudioMixer: Display: 0: FrontLeft
+[2025.08.25-21.07.47:895][677]LogAudioMixer: Display: 1: FrontRight
+[2025.08.25-21.35.34:553][644]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{d8506619-6cfa-4a5d-9e95-d9538ba923b5}.
+[2025.08.25-21.35.34:553][644]LogAudioMixer: Resetting audio stream to device id 
+[2025.08.25-21.35.34:560][644]LogAudioMixer: Display: 0: FrontLeft
+[2025.08.25-21.35.34:561][644]LogAudioMixer: Display: 1: FrontRight
+[2025.08.25-21.43.28:129][208]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Door)
+[2025.08.25-21.43.47:869][527]Cmd: MODE SCALEGRID=0
+[2025.08.25-21.43.52:157][ 17]Cmd: MODE SCALEGRID=1
+[2025.08.25-21.44.11:997][367]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x201)
+[2025.08.25-21.44.13:316][522]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_400x401)
+[2025.08.25-21.44.13:986][599]LogEditorViewport: Clicking on Actor (LMB): TextRenderActor (TextRenderActor3)
+[2025.08.25-21.44.26:305][ 55]Cmd: MODE SCALEGRID=0
+[2025.08.25-21.44.30:838][583]Cmd: MODE GRID=0
+[2025.08.25-21.44.47:202][496]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_400x401)
+[2025.08.25-21.44.51:282][979]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x201)
+[2025.08.25-21.44.53:218][203]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x201)
+[2025.08.25-21.44.53:799][272]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x201)
+[2025.08.25-21.44.54:578][365]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x201)
+[2025.08.25-21.44.55:051][421]LogEditorViewport: Clicking on Actor (LMB): TextRenderActor (TextRenderActor3)
+[2025.08.25-21.45.18:681][982]LogEditorViewport: Clicking on Actor (LMB): TextRenderActor (TextRenderActor2)
+[2025.08.25-21.45.23:641][573]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane2)
+[2025.08.25-21.45.24:713][698]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane3)
+[2025.08.25-21.45.26:748][939]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane2)
+[2025.08.25-21.45.36:413][ 64]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2025.08.25-21.45.37:016][133]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane4)
+[2025.08.25-21.45.51:084][799]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
+[2025.08.25-21.45.56:208][408]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane2)
+[2025.08.25-21.46.02:361][ 89]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane3)
+[2025.08.25-21.46.04:528][330]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane4)
+[2025.08.25-21.46.05:570][452]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
+[2025.08.25-21.46.08:070][745]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane5)
+[2025.08.25-21.46.09:504][914]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane6)
+[2025.08.25-21.46.27:006][  2]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane5)
+[2025.08.25-21.46.28:606][190]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
+[2025.08.25-21.46.29:981][351]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane4)
+[2025.08.25-21.46.33:163][729]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane3)
+[2025.08.25-21.46.35:289][980]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane2)
+[2025.08.25-21.46.43:613][959]LogEditorViewport: Clicking on Actor (LMB): TextRenderActor (TextRenderActor3)
+[2025.08.25-21.46.47:944][466]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x201)
+[2025.08.25-21.47.10:120][111]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (PlayerStart2)
+[2025.08.25-21.47.11:756][304]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2025.08.25-21.47.13:910][561]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2025.08.25-21.47.16:910][905]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2025.08.25-21.47.18:419][ 85]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Door)
+[2025.08.25-21.47.36:086][168]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Cenas/Rafael" FILE="../../../../../../Users/rafael.anastácio/Documents/GitHub/Sorry/Content/Cenas/Rafael.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.08.25-21.47.36:091][168]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2025.08.25-21.47.36:104][168]LogSavePackage: Moving '../../../../../../Users/rafael.anastácio/Documents/GitHub/Sorry/Saved/Rafael18A0F297460FD9EA5A46B0836D50D5CA.tmp' to '../../../../../../Users/rafael.anastácio/Documents/GitHub/Sorry/Content/Cenas/Rafael.umap'
+[2025.08.25-21.47.36:118][168]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Cenas/Rafael_BuiltData" FILE="../../../../../../Users/rafael.anastácio/Documents/GitHub/Sorry/Content/Cenas/Rafael_BuiltData.uasset" SILENT=true
+[2025.08.25-21.47.36:159][168]LogSavePackage: Moving '../../../../../../Users/rafael.anastácio/Documents/GitHub/Sorry/Saved/Rafael_BuiltData6AC5E7E54D6E350C4CD0A3845C90D8A9.tmp' to '../../../../../../Users/rafael.anastácio/Documents/GitHub/Sorry/Content/Cenas/Rafael_BuiltData.uasset'
+[2025.08.25-21.47.36:170][168]AssetCheck: New page: Asset Save: multiple assets
+[2025.08.25-21.47.36:170][168]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Cenas/Rafael_BuiltData.Rafael_BuiltData
+[2025.08.25-21.47.36:170][168]LogContentValidation: Display: Validating World /Game/Cenas/Rafael.Rafael
+[2025.08.25-21.47.37:020][265]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Cenas/Rafael" FILE="../../../../../../Users/rafael.anastácio/Documents/GitHub/Sorry/Content/Cenas/Rafael.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.08.25-21.47.37:024][265]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2025.08.25-21.47.37:036][265]LogSavePackage: Moving '../../../../../../Users/rafael.anastácio/Documents/GitHub/Sorry/Saved/Rafael4E4CBF244A987CF2EC10308D415C51F9.tmp' to '../../../../../../Users/rafael.anastácio/Documents/GitHub/Sorry/Content/Cenas/Rafael.umap'
+[2025.08.25-21.47.37:048][265]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Cenas/Rafael_BuiltData" FILE="../../../../../../Users/rafael.anastácio/Documents/GitHub/Sorry/Content/Cenas/Rafael_BuiltData.uasset" SILENT=true
+[2025.08.25-21.47.37:090][265]LogSavePackage: Moving '../../../../../../Users/rafael.anastácio/Documents/GitHub/Sorry/Saved/Rafael_BuiltDataEE185BDA4F7879645D980DAEA91F2042.tmp' to '../../../../../../Users/rafael.anastácio/Documents/GitHub/Sorry/Content/Cenas/Rafael_BuiltData.uasset'
+[2025.08.25-21.47.37:098][265]AssetCheck: New page: Asset Save: multiple assets
+[2025.08.25-21.47.37:098][265]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Cenas/Rafael_BuiltData.Rafael_BuiltData
+[2025.08.25-21.47.37:098][265]LogContentValidation: Display: Validating World /Game/Cenas/Rafael.Rafael
+[2025.08.25-21.47.38:287][401]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2025.08.25-21.47.40:693][401]LogSlate: Window 'Salvar Conteúdo' being destroyed
+[2025.08.25-21.47.40:723][401]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/bandeiras/bandeira-da-alemanha" FILE="../../../../../../Users/rafael.anastácio/Documents/GitHub/Sorry/Content/bandeiras/bandeira-da-alemanha.uasset" SILENT=true
+[2025.08.25-21.47.40:727][401]LogSavePackage: Moving '../../../../../../Users/rafael.anastácio/Documents/GitHub/Sorry/Saved/bandeira-da-alemanha751E49F54E8DC682AE9167B76ED9FB6A.tmp' to '../../../../../../Users/rafael.anastácio/Documents/GitHub/Sorry/Content/bandeiras/bandeira-da-alemanha.uasset'
+[2025.08.25-21.47.40:727][401]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/bandeiras/bandeira-da-alemanha_Mat" FILE="../../../../../../Users/rafael.anastácio/Documents/GitHub/Sorry/Content/bandeiras/bandeira-da-alemanha_Mat.uasset" SILENT=true
+[2025.08.25-21.47.40:728][401]LogSavePackage: Moving '../../../../../../Users/rafael.anastácio/Documents/GitHub/Sorry/Saved/bandeira-da-alemanha_Mat988F6B85404AC79690D88397F4306B9A.tmp' to '../../../../../../Users/rafael.anastácio/Documents/GitHub/Sorry/Content/bandeiras/bandeira-da-alemanha_Mat.uasset'
+[2025.08.25-21.47.40:731][401]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/bandeiras/Flag_of_Brazil_svg" FILE="../../../../../../Users/rafael.anastácio/Documents/GitHub/Sorry/Content/bandeiras/Flag_of_Brazil_svg.uasset" SILENT=true
+[2025.08.25-21.47.40:793][401]LogSavePackage: Moving '../../../../../../Users/rafael.anastácio/Documents/GitHub/Sorry/Saved/Flag_of_Brazil_svg35E47A0F4438800F1B0CCDB713A1BE4B.tmp' to '../../../../../../Users/rafael.anastácio/Documents/GitHub/Sorry/Content/bandeiras/Flag_of_Brazil_svg.uasset'
+[2025.08.25-21.47.40:793][401]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/bandeiras/Flag_of_Brazil_svg_Mat" FILE="../../../../../../Users/rafael.anastácio/Documents/GitHub/Sorry/Content/bandeiras/Flag_of_Brazil_svg_Mat.uasset" SILENT=true
+[2025.08.25-21.47.40:794][401]LogSavePackage: Moving '../../../../../../Users/rafael.anastácio/Documents/GitHub/Sorry/Saved/Flag_of_Brazil_svg_MatC51454984F78D05D835627A4ECA6FEBA.tmp' to '../../../../../../Users/rafael.anastácio/Documents/GitHub/Sorry/Content/bandeiras/Flag_of_Brazil_svg_Mat.uasset'
+[2025.08.25-21.47.40:795][401]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/bandeiras/Flag_of_Italy" FILE="../../../../../../Users/rafael.anastácio/Documents/GitHub/Sorry/Content/bandeiras/Flag_of_Italy.uasset" SILENT=true
+[2025.08.25-21.47.40:968][401]LogSavePackage: Moving '../../../../../../Users/rafael.anastácio/Documents/GitHub/Sorry/Saved/Flag_of_Italy581023EA435150C17EF7918F0FB2090C.tmp' to '../../../../../../Users/rafael.anastácio/Documents/GitHub/Sorry/Content/bandeiras/Flag_of_Italy.uasset'
+[2025.08.25-21.47.40:969][401]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/bandeiras/Flag_of_Italy_Mat" FILE="../../../../../../Users/rafael.anastácio/Documents/GitHub/Sorry/Content/bandeiras/Flag_of_Italy_Mat.uasset" SILENT=true
+[2025.08.25-21.47.40:970][401]LogSavePackage: Moving '../../../../../../Users/rafael.anastácio/Documents/GitHub/Sorry/Saved/Flag_of_Italy_Mat06213A8741E140425559BD8F78160634.tmp' to '../../../../../../Users/rafael.anastácio/Documents/GitHub/Sorry/Content/bandeiras/Flag_of_Italy_Mat.uasset'
+[2025.08.25-21.47.40:971][401]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/bandeiras/Flag_of_Luxembourg_svg" FILE="../../../../../../Users/rafael.anastácio/Documents/GitHub/Sorry/Content/bandeiras/Flag_of_Luxembourg_svg.uasset" SILENT=true
+[2025.08.25-21.47.40:982][401]LogSavePackage: Moving '../../../../../../Users/rafael.anastácio/Documents/GitHub/Sorry/Saved/Flag_of_Luxembourg_svg8F9C201A4AC9CB7719D205AF903A1015.tmp' to '../../../../../../Users/rafael.anastácio/Documents/GitHub/Sorry/Content/bandeiras/Flag_of_Luxembourg_svg.uasset'
+[2025.08.25-21.47.40:984][401]LogSavePackage: Moving '../../../../../../Users/rafael.anastácio/Documents/GitHub/Sorry/Saved/Flag_of_Luxembourg_svg_Mat8C39986D44DF174BDB0DC2BD2C76F098.tmp' to '../../../../../../Users/rafael.anastácio/Documents/GitHub/Sorry/Content/bandeiras/Flag_of_Luxembourg_svg_Mat.uasset'
+[2025.08.25-21.47.40:990][401]LogSavePackage: Moving '../../../../../../Users/rafael.anastácio/Documents/GitHub/Sorry/Saved/Flag_of_Switzerland__Pantone__svE94B1C0C40830C1E1A933C878EFB8994.tmp' to '../../../../../../Users/rafael.anastácio/Documents/GitHub/Sorry/Content/bandeiras/Flag_of_Switzerland__Pantone__svg.uasset'
+[2025.08.25-21.47.40:992][401]LogSavePackage: Moving '../../../../../../Users/rafael.anastácio/Documents/GitHub/Sorry/Saved/Flag_of_Switzerland__Pantone__sv47F2819941FA8387019134BF0A84C7B2.tmp' to '../../../../../../Users/rafael.anastácio/Documents/GitHub/Sorry/Content/bandeiras/Flag_of_Switzerland__Pantone__svg_Mat.uasset'
+[2025.08.25-21.47.40:992][401]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/bandeiras/images_Mat" FILE="../../../../../../Users/rafael.anastácio/Documents/GitHub/Sorry/Content/bandeiras/images_Mat.uasset" SILENT=true
+[2025.08.25-21.47.40:993][401]LogSavePackage: Moving '../../../../../../Users/rafael.anastácio/Documents/GitHub/Sorry/Saved/images_Mat08C2369E4F53A3C3BBF3019B70077938.tmp' to '../../../../../../Users/rafael.anastácio/Documents/GitHub/Sorry/Content/bandeiras/images_Mat.uasset'
+[2025.08.25-21.47.41:001][401]AssetCheck: New page: Asset Save: multiple assets
+[2025.08.25-21.47.41:001][401]LogContentValidation: Display: Validating Texture2D /Game/bandeiras/Flag_of_Switzerland__Pantone__svg.Flag_of_Switzerland__Pantone__svg
+[2025.08.25-21.47.41:002][401]LogContentValidation: Display: Validating Texture2D /Game/bandeiras/Flag_of_Brazil_svg.Flag_of_Brazil_svg
+[2025.08.25-21.47.41:002][401]LogContentValidation: Display: Validating Texture2D /Game/bandeiras/Flag_of_Italy.Flag_of_Italy
+[2025.08.25-21.47.41:002][401]LogContentValidation: Display: Validating Texture2D /Game/bandeiras/bandeira-da-alemanha.bandeira-da-alemanha
+[2025.08.25-21.47.41:002][401]LogContentValidation: Display: Validating Texture2D /Game/bandeiras/Flag_of_Luxembourg_svg.Flag_of_Luxembourg_svg
+[2025.08.25-21.47.41:002][401]LogContentValidation: Display: Validating Material /Game/bandeiras/Flag_of_Luxembourg_svg_Mat.Flag_of_Luxembourg_svg_Mat
+[2025.08.25-21.47.41:002][401]LogContentValidation: Display: Validating Material /Game/bandeiras/Flag_of_Brazil_svg_Mat.Flag_of_Brazil_svg_Mat
+[2025.08.25-21.47.41:002][401]LogContentValidation: Display: Validating Material /Game/bandeiras/images_Mat.images_Mat
+[2025.08.25-21.47.41:002][401]LogContentValidation: Display: Validating Material /Game/bandeiras/Flag_of_Switzerland__Pantone__svg_Mat.Flag_of_Switzerland__Pantone__svg_Mat
+[2025.08.25-21.47.41:002][401]LogContentValidation: Display: Validating Material /Game/bandeiras/Flag_of_Italy_Mat.Flag_of_Italy_Mat
+[2025.08.25-21.47.41:002][401]LogContentValidation: Display: Validating Material /Game/bandeiras/bandeira-da-alemanha_Mat.bandeira-da-alemanha_Mat
