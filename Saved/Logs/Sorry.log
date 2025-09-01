@@ -1166,3 +1166,121 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2025.09.01-19.43.56:086][431]AssetCheck: New page: Asset Save: multiple assets
 [2025.09.01-19.43.56:086][431]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Cenas/Felipe_BuiltData.Felipe_BuiltData
 [2025.09.01-19.43.56:086][431]LogContentValidation: Display: Validating World /Game/Cenas/Felipe.Felipe
+[2025.09.01-19.47.34:899][ 21]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Shape_Cube12)
+[2025.09.01-19.47.36:142][145]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Shape_Cube5)
+[2025.09.01-19.53.53:442][340]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Shape_Cube10)
+[2025.09.01-19.53.54:354][446]LogEditorViewport: Clicking on Actor (LMB): TextRenderActor (TextRenderActor)
+[2025.09.01-19.54.12:350][529]LogEditorViewport: Clicking on Actor (LMB): TextRenderActor (TextRenderActor22)
+[2025.09.01-19.54.13:457][659]LogEditorViewport: Clicking on Actor (LMB): TextRenderActor (TextRenderActor24)
+[2025.09.01-19.55.16:492][148]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Shape_Cube13)
+[2025.09.01-19.55.24:777][131]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Cenas/Felipe" FILE="../../../../../../Users/felipe.lanfranchi/Documents/TCC/Sorry/Content/Cenas/Felipe.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.09.01-19.55.24:783][131]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2025.09.01-19.55.24:809][131]LogSavePackage: Moving '../../../../../../Users/felipe.lanfranchi/Documents/TCC/Sorry/Saved/FelipeF3B1CD9A482D5B0C11CFEE968F6C5E5F.tmp' to '../../../../../../Users/felipe.lanfranchi/Documents/TCC/Sorry/Content/Cenas/Felipe.umap'
+[2025.09.01-19.55.24:822][131]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Cenas/Felipe_BuiltData" FILE="../../../../../../Users/felipe.lanfranchi/Documents/TCC/Sorry/Content/Cenas/Felipe_BuiltData.uasset" SILENT=true
+[2025.09.01-19.55.24:846][131]LogSavePackage: Moving '../../../../../../Users/felipe.lanfranchi/Documents/TCC/Sorry/Saved/Felipe_BuiltDataD579B3C54EF326360D5F5DBAD624EA74.tmp' to '../../../../../../Users/felipe.lanfranchi/Documents/TCC/Sorry/Content/Cenas/Felipe_BuiltData.uasset'
+[2025.09.01-19.55.24:856][131]AssetCheck: New page: Asset Save: multiple assets
+[2025.09.01-19.55.24:856][131]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Cenas/Felipe_BuiltData.Felipe_BuiltData
+[2025.09.01-19.55.24:856][131]LogContentValidation: Display: Validating World /Game/Cenas/Felipe.Felipe
+[2025.09.01-19.55.30:108][724]MapCheck: New page: Verificação de Mapa
+[2025.09.01-19.55.30:126][724]Cmd: MAP REBUILD ALLVISIBLE
+[2025.09.01-19.55.30:126][724]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2025.09.01-19.55.30:127][724]LogWorld: UWorld::CleanupWorld for Felipe, bSessionEnded=true, bCleanupResources=false
+[2025.09.01-19.55.30:194][724]LogNavigationDataBuild: Display: UNavigationSystemV1::Build started...
+[2025.09.01-19.55.30:194][724]LogNavigationDataBuild: Display:    Building navigation data using PHYSICS_INTERFACE_PHYSX.
+[2025.09.01-19.55.30:194][724]LogNavigationDataBuild: Display:    Building navigation data using WITH_PHYSX.
+[2025.09.01-19.55.30:269][724]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2025.09.01-19.55.30:276][724]LogLevel: Display: Export Material TexCoord Scales took 0.006 seconds.
+[2025.09.01-19.55.30:277][724]TextureStreamingBuild: Display: Build Texture Streaming took 0.001 seconds.
+[2025.09.01-19.55.30:282][724]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2025.09.01-19.55.30:294][724]LightingResults: New page: Compilação de Iluminação - 1 de set de 2025 13:55:30
+[2025.09.01-19.55.30:308][724]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2025.09.01-19.55.30:309][724]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2025.09.01-19.55.30:310][724]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2025.09.01-19.55.30:311][724]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2025.09.01-19.55.30:311][724]LogSwarmInterface: [TryOpenConnection] Local Process ID is 10272
+[2025.09.01-19.55.34:878][724]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2025.09.01-19.55.34:879][724]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2025.09.01-19.55.34:879][724]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2025.09.01-19.55.34:879][724]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2025.09.01-19.55.34:879][724]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2025.09.01-19.55.34:879][724]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2025.09.01-19.55.34:966][724]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2025.09.01-19.55.34:967][724]MapCheck: New page: Felipe - 1 de set de 2025 13:55:34
+[2025.09.01-19.55.34:967][724]MapCheck: Warning: Cube_5 Static mesh actor has NULL StaticMesh property 
+[2025.09.01-19.55.34:967][724]MapCheck: Warning: Cube2 Static mesh actor has NULL StaticMesh property 
+[2025.09.01-19.55.34:967][724]MapCheck: Warning: Cube3 Static mesh actor has NULL StaticMesh property 
+[2025.09.01-19.55.34:967][724]MapCheck: Error: Cube4_11 /Game/Cenas/Felipe.Felipe:PersistentLevel.Cube4_11 : DrawScale/DrawScale3D inválido 
+[2025.09.01-19.55.34:967][724]MapCheck: Warning: Cube4_11 Static mesh actor has NULL StaticMesh property 
+[2025.09.01-19.55.34:967][724]MapCheck: Warning: Cube5_14 Static mesh actor has NULL StaticMesh property 
+[2025.09.01-19.55.34:967][724]MapCheck: Map check complete: 1 Error(s), 5 Warning(s), took 0,634ms to complete.
+[2025.09.01-19.55.34:969][724]LogEditorBuildUtils: Build time 0:04
+[2025.09.01-19.55.35:011][724]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.09.01-19.55.35:011][724]LogShaderCompilers: Display: Total job queries 0, among them cache hits 0 (0.00%)
+[2025.09.01-19.55.35:011][724]LogShaderCompilers: Display: Tracking 0 distinct input hashes that result in 0 distinct outputs (0.00%)
+[2025.09.01-19.55.35:011][724]LogShaderCompilers: Display: RAM used: 0.00 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.00%
+[2025.09.01-19.55.35:011][724]LogShaderCompilers: Display: ================================================
+[2025.09.01-19.55.35:237][726]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2025.09.01-19.55.38:054][951]Job is a success!
+[2025.09.01-19.55.38:230][953]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.009s
+[2025.09.01-19.55.38:230][953]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2025.09.01-19.55.38:230][953]LogVolumetricLightmapImport:      BrickData (all levels) 0.2Mb (trimmed 0.0Mb due to 0.010000 MinBrickError)
+[2025.09.01-19.55.38:230][953]LogVolumetricLightmapImport:      Bricks at depth
+[2025.09.01-19.55.38:230][953]LogVolumetricLightmapImport:          0: 2.0% covering 100.0% of volume
+[2025.09.01-19.55.38:230][953]LogVolumetricLightmapImport:          1: 2.0% covering 1.6% of volume
+[2025.09.01-19.55.38:230][953]LogVolumetricLightmapImport:          2: 95.9% covering 1.1% of volume
+[2025.09.01-19.55.38:230][953]LogVolumetricLightmapImport:      Bricks in each level
+[2025.09.01-19.55.38:230][953]LogVolumetricLightmapImport:          Felipe 			 49 bricks 	 100.0% (Persistent Level)
+[2025.09.01-19.55.38:249][953]LightingResults: Warning: PointLight7 Perda de desempenho severa: Falha ao alocar o canal de mapa de sombras para a luz estacionária devido à sobreposição - a luz voltará para as sombras dinâmicas!
+[2025.09.01-19.55.38:249][953]LightingResults: Warning: PointLight_3 Perda de desempenho severa: Falha ao alocar o canal de mapa de sombras para a luz estacionária devido à sobreposição - a luz voltará para as sombras dinâmicas!
+[2025.09.01-19.55.38:249][953]LightingResults: Warning: PointLight2 Perda de desempenho severa: Falha ao alocar o canal de mapa de sombras para a luz estacionária devido à sobreposição - a luz voltará para as sombras dinâmicas!
+[2025.09.01-19.55.38:249][953]LightingResults: Warning: PointLight3 Perda de desempenho severa: Falha ao alocar o canal de mapa de sombras para a luz estacionária devido à sobreposição - a luz voltará para as sombras dinâmicas!
+[2025.09.01-19.55.38:249][953]LightingResults: Warning: PointLight6 Perda de desempenho severa: Falha ao alocar o canal de mapa de sombras para a luz estacionária devido à sobreposição - a luz voltará para as sombras dinâmicas!
+[2025.09.01-19.55.38:249][953]LightingResults: Warning: PointLight5 Perda de desempenho severa: Falha ao alocar o canal de mapa de sombras para a luz estacionária devido à sobreposição - a luz voltará para as sombras dinâmicas!
+[2025.09.01-19.55.38:249][953]LightingResults: Warning: PointLight10 Perda de desempenho severa: Falha ao alocar o canal de mapa de sombras para a luz estacionária devido à sobreposição - a luz voltará para as sombras dinâmicas!
+[2025.09.01-19.55.38:249][953]LightingResults: Warning: PointLight11 Perda de desempenho severa: Falha ao alocar o canal de mapa de sombras para a luz estacionária devido à sobreposição - a luz voltará para as sombras dinâmicas!
+[2025.09.01-19.55.38:249][953]LightingResults: Warning: PointLight12 Perda de desempenho severa: Falha ao alocar o canal de mapa de sombras para a luz estacionária devido à sobreposição - a luz voltará para as sombras dinâmicas!
+[2025.09.01-19.55.38:249][953]LightingResults: Warning: PointLight13 Perda de desempenho severa: Falha ao alocar o canal de mapa de sombras para a luz estacionária devido à sobreposição - a luz voltará para as sombras dinâmicas!
+[2025.09.01-19.55.38:249][953]LightingResults: Warning: PointLight14 Perda de desempenho severa: Falha ao alocar o canal de mapa de sombras para a luz estacionária devido à sobreposição - a luz voltará para as sombras dinâmicas!
+[2025.09.01-19.55.38:249][953]LightingResults: Warning: PointLight15 Perda de desempenho severa: Falha ao alocar o canal de mapa de sombras para a luz estacionária devido à sobreposição - a luz voltará para as sombras dinâmicas!
+[2025.09.01-19.55.38:249][953]LightingResults: Warning: PointLight16 Perda de desempenho severa: Falha ao alocar o canal de mapa de sombras para a luz estacionária devido à sobreposição - a luz voltará para as sombras dinâmicas!
+[2025.09.01-19.55.38:249][953]LightingResults: Warning: PointLight17 Perda de desempenho severa: Falha ao alocar o canal de mapa de sombras para a luz estacionária devido à sobreposição - a luz voltará para as sombras dinâmicas!
+[2025.09.01-19.55.38:249][953]LightingResults: Warning: PointLight18 Perda de desempenho severa: Falha ao alocar o canal de mapa de sombras para a luz estacionária devido à sobreposição - a luz voltará para as sombras dinâmicas!
+[2025.09.01-19.55.38:297][953]LogTexture: Display: Building textures: SkyOcclusion1_1 (OODLE_AutoDXT, 512X256)
+[2025.09.01-19.55.38:297][953]LogTexture: Display: Building textures: HQ_Lightmap1_1 (OODLE_AutoDXT, 512X512)
+[2025.09.01-19.55.38:297][953]LogTexture: Display: Building textures: SkyOcclusion1_2 (OODLE_AutoDXT, 64X32)
+[2025.09.01-19.55.38:297][953]LogTexture: Display: Building textures: HQ_Lightmap1_2 (OODLE_AutoDXT, 64X64)
+[2025.09.01-19.55.38:297][953]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (OODLE_DXT1, 512X512)
+[2025.09.01-19.55.38:297][953]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (OODLE_DXT1, 64X64)
+[2025.09.01-19.55.38:297][953]LogTexture: Display: Building textures: ShadowMapTexture2D_7 (G8, 32X32)
+[2025.09.01-19.55.38:297][953]LogTexture: Display: Building textures: ShadowMapTexture2D_6 (BGRA8, 512X128)
+[2025.09.01-19.55.38:297][953]LogStaticLightingSystem: Felipe_BuiltData storing lightmap data for 18 meshes in 2 LightmapResourceClusters (9.0 Meshes per cluster).
+[2025.09.01-19.55.38:310][953]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2025.09.01-19.55.38:335][953]Lightmass on SGS1-D03: 2.76 sec total, 99 ms importing, 8 ms setup, 187 ms photons, 2.36 sec processing, 0 ms extra exporting [18/18 mappings]. Threads: 26.0 sec total, 4.27 sec processing.
+[2025.09.01-19.55.38:373][953]LogStaticLightingSystem: Illumination: 7.98 sec (26 ms encoding lightmaps, 17 ms encoding shadowmaps)
+[2025.09.01-19.55.38:373][953]LogStaticLightingSystem: Lightmap texture memory:  0.7 MB (0.7 MB streaming, 0.0 MB non-streaming), 4 textures
+[2025.09.01-19.55.38:373][953]LogStaticLightingSystem: Shadowmap texture memory: 0.3 MB (0.3 MB streaming, 0.0 MB non-streaming), 2 textures
+[2025.09.01-19.55.38:888][953]DumpUnbuiltLightIteractions
+[2025.09.01-19.55.38:888][953]Lights with unbuilt interactions: 0
+[2025.09.01-19.55.38:888][953]
+[2025.09.01-19.55.38:888][953]Primitives with unbuilt interactions: 0
+[2025.09.01-19.55.38:984][953]LogTexture: Display: Building textures: NewReflectionComponentTextureD6C57B644F03DADF4F2699848FAEA3C3 (BGRA8, 128X128)
+[2025.09.01-19.55.38:993][953]LogTexture: Display: Building textures: NewReflectionComponentTexture8D91C9AE4C6B8D628CDA3C848426284A (BGRA8, 128X128)
+[2025.09.01-19.55.39:030][954]Cmd: MAP CHECK NOTIFYRESULTS
+[2025.09.01-19.55.39:030][954]MapCheck: New page: Felipe - 1 de set de 2025 13:55:39
+[2025.09.01-19.55.39:030][954]MapCheck: Warning: Cube_5 Static mesh actor has NULL StaticMesh property 
+[2025.09.01-19.55.39:030][954]MapCheck: Warning: Cube2 Static mesh actor has NULL StaticMesh property 
+[2025.09.01-19.55.39:030][954]MapCheck: Warning: Cube3 Static mesh actor has NULL StaticMesh property 
+[2025.09.01-19.55.39:030][954]MapCheck: Error: Cube4_11 /Game/Cenas/Felipe.Felipe:PersistentLevel.Cube4_11 : DrawScale/DrawScale3D inválido 
+[2025.09.01-19.55.39:030][954]MapCheck: Warning: Cube4_11 Static mesh actor has NULL StaticMesh property 
+[2025.09.01-19.55.39:030][954]MapCheck: Warning: Cube5_14 Static mesh actor has NULL StaticMesh property 
+[2025.09.01-19.55.39:030][954]MapCheck: Map check complete: 1 Error(s), 5 Warning(s), took 0,564ms to complete.
+[2025.09.01-19.56.14:608][128]LogSlate: Window 'Registro de Mensagem' being destroyed
+[2025.09.01-19.56.14:612][128]LogSlate: Window 'Registro de Mensagem' being destroyed
+[2025.09.01-19.56.16:914][403]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Cenas/Felipe" FILE="../../../../../../Users/felipe.lanfranchi/Documents/TCC/Sorry/Content/Cenas/Felipe.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.09.01-19.56.16:922][403]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2025.09.01-19.56.16:948][403]LogSavePackage: Moving '../../../../../../Users/felipe.lanfranchi/Documents/TCC/Sorry/Saved/FelipeA1F420FC43FD4FEF0D03AE9712F968E7.tmp' to '../../../../../../Users/felipe.lanfranchi/Documents/TCC/Sorry/Content/Cenas/Felipe.umap'
+[2025.09.01-19.56.16:960][403]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Cenas/Felipe_BuiltData" FILE="../../../../../../Users/felipe.lanfranchi/Documents/TCC/Sorry/Content/Cenas/Felipe_BuiltData.uasset" SILENT=true
+[2025.09.01-19.56.16:983][403]LogSavePackage: Moving '../../../../../../Users/felipe.lanfranchi/Documents/TCC/Sorry/Saved/Felipe_BuiltData5616689643D7F008775249BC7A36C1DE.tmp' to '../../../../../../Users/felipe.lanfranchi/Documents/TCC/Sorry/Content/Cenas/Felipe_BuiltData.uasset'
+[2025.09.01-19.56.16:995][403]AssetCheck: New page: Asset Save: multiple assets
+[2025.09.01-19.56.16:995][403]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Cenas/Felipe_BuiltData.Felipe_BuiltData
+[2025.09.01-19.56.16:995][403]LogContentValidation: Display: Validating World /Game/Cenas/Felipe.Felipe
