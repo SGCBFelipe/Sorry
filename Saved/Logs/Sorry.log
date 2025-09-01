@@ -1284,3 +1284,575 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2025.09.01-19.56.16:995][403]AssetCheck: New page: Asset Save: multiple assets
 [2025.09.01-19.56.16:995][403]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Cenas/Felipe_BuiltData.Felipe_BuiltData
 [2025.09.01-19.56.16:995][403]LogContentValidation: Display: Validating World /Game/Cenas/Felipe.Felipe
+[2025.09.01-20.17.13:854][647]LogTemp: Repeating last play command: Selected Viewport
+[2025.09.01-20.17.13:860][647]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.09.01-20.17.13:861][647]PIE: New page: Sessão de PIE : Felipe (1 de set de 2025 14:17:13)
+[2025.09.01-20.17.13:862][647]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2025.09.01-20.17.13:863][647]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2025.09.01-20.17.13:863][647]LogPlayLevel: Creating play world package: /Game/Cenas/UEDPIE_0_Felipe
+[2025.09.01-20.17.13:870][647]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008306s)
+[2025.09.01-20.17.13:871][647]LogAIModule: Creating AISystem for world Felipe
+[2025.09.01-20.17.13:871][647]LogPlayLevel: PIE: World Init took: (0.001099s)
+[2025.09.01-20.17.13:872][647]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Cenas/Felipe.Felipe to /Game/Cenas/UEDPIE_0_Felipe.Felipe (0.009545s)
+[2025.09.01-20.17.13:877][647]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2025.09.01-20.17.13:878][647]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2025.09.01-20.17.13:878][647]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.09.01-20.17.13:878][647]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.09.01-20.17.13:878][647]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.09.01-20.17.13:878][647]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.09.01-20.17.13:878][647]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2025.09.01-20.17.13:878][647]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.09.01-20.17.13:878][647]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2025.09.01-20.17.13:878][647]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.09.01-20.17.13:878][647]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.09.01-20.17.13:878][647]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.09.01-20.17.13:878][647]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.09.01-20.17.13:878][647]LogAudioMixer: Display: Initializing audio mixer.
+[2025.09.01-20.17.13:881][647]LogAudioMixer: Display: 0: FrontLeft
+[2025.09.01-20.17.13:881][647]LogAudioMixer: Display: 1: FrontRight
+[2025.09.01-20.17.13:889][647]LogAudioMixer: Display: Using Audio Device 22B1WG5 (NVIDIA High Definition Audio)
+[2025.09.01-20.17.13:889][647]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.09.01-20.17.13:889][647]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.09.01-20.17.13:889][647]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.09.01-20.17.13:890][647]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2025.09.01-20.17.13:890][647]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2025.09.01-20.17.13:890][647]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2025.09.01-20.17.13:890][647]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2025.09.01-20.17.13:890][647]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2025.09.01-20.17.13:890][647]LogInit: FAudioDevice initialized.
+[2025.09.01-20.17.13:891][647]LogAudio: Display: Audio Device (ID: 2) registered with world 'Felipe'.
+[2025.09.01-20.17.13:912][647]LogLoad: Game class is 'Game_C'
+[2025.09.01-20.17.13:915][647]LogWorld: Bringing World /Game/Cenas/UEDPIE_0_Felipe.Felipe up for play (max tick rate 0) at 2025.09.01-17.17.13
+[2025.09.01-20.17.13:915][647]LogWorld: Bringing up level for play took: 0.001743
+[2025.09.01-20.17.13:916][647]LogOnline: OSS: Creating online subsystem instance for: :Context_2
+[2025.09.01-20.17.13:920][647]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
+[2025.09.01-20.17.13:923][647]PIE: Servidor conectado
+[2025.09.01-20.17.13:924][647]PIE: Play in editor total start time 0,064 seconds.
+[2025.09.01-20.17.22:485][661]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.01-20.17.22:485][661]LogWorld: BeginTearingDown for /Game/Cenas/UEDPIE_0_Felipe
+[2025.09.01-20.17.22:485][661]LogWorld: UWorld::CleanupWorld for Felipe, bSessionEnded=true, bCleanupResources=true
+[2025.09.01-20.17.22:485][661]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.01-20.17.22:492][661]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.09.01-20.17.22:506][661]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.01-20.17.22:510][661]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.09.01-20.17.22:511][661]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2025.09.01-20.17.22:512][661]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2025.09.01-20.17.22:513][661]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.01-20.17.22:516][661]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2025.09.01-20.17.22:562][664]LogPlayLevel: Display: Destroying online subsystem :Context_2
+[2025.09.01-20.17.23:626][783]LogTemp: Repeating last play command: Selected Viewport
+[2025.09.01-20.17.23:630][783]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.09.01-20.17.23:630][783]PIE: New page: Sessão de PIE : Felipe (1 de set de 2025 14:17:23)
+[2025.09.01-20.17.23:654][783]LogPlayLevel: Creating play world package: /Game/Cenas/UEDPIE_0_Felipe
+[2025.09.01-20.17.23:660][783]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006702s)
+[2025.09.01-20.17.23:661][783]LogAIModule: Creating AISystem for world Felipe
+[2025.09.01-20.17.23:661][783]LogPlayLevel: PIE: World Init took: (0.000870s)
+[2025.09.01-20.17.23:661][783]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Cenas/Felipe.Felipe to /Game/Cenas/UEDPIE_0_Felipe.Felipe (0.007699s)
+[2025.09.01-20.17.23:666][783]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2025.09.01-20.17.23:667][783]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2025.09.01-20.17.23:667][783]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.09.01-20.17.23:667][783]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.09.01-20.17.23:667][783]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.09.01-20.17.23:667][783]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.09.01-20.17.23:667][783]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2025.09.01-20.17.23:667][783]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.09.01-20.17.23:667][783]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2025.09.01-20.17.23:667][783]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.09.01-20.17.23:667][783]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.09.01-20.17.23:667][783]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.09.01-20.17.23:667][783]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.09.01-20.17.23:667][783]LogAudioMixer: Display: Initializing audio mixer.
+[2025.09.01-20.17.23:670][783]LogAudioMixer: Display: 0: FrontLeft
+[2025.09.01-20.17.23:670][783]LogAudioMixer: Display: 1: FrontRight
+[2025.09.01-20.17.23:676][783]LogAudioMixer: Display: Using Audio Device 22B1WG5 (NVIDIA High Definition Audio)
+[2025.09.01-20.17.23:676][783]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.09.01-20.17.23:676][783]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.09.01-20.17.23:676][783]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.09.01-20.17.23:676][783]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2025.09.01-20.17.23:676][783]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2025.09.01-20.17.23:676][783]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2025.09.01-20.17.23:677][783]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2025.09.01-20.17.23:677][783]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2025.09.01-20.17.23:677][783]LogInit: FAudioDevice initialized.
+[2025.09.01-20.17.23:677][783]LogAudio: Display: Audio Device (ID: 3) registered with world 'Felipe'.
+[2025.09.01-20.17.23:686][783]LogLoad: Game class is 'Game_C'
+[2025.09.01-20.17.23:689][783]LogWorld: Bringing World /Game/Cenas/UEDPIE_0_Felipe.Felipe up for play (max tick rate 0) at 2025.09.01-17.17.23
+[2025.09.01-20.17.23:689][783]LogWorld: Bringing up level for play took: 0.001527
+[2025.09.01-20.17.23:689][783]LogOnline: OSS: Creating online subsystem instance for: :Context_3
+[2025.09.01-20.17.23:691][783]PIE: Servidor conectado
+[2025.09.01-20.17.23:691][783]PIE: Play in editor total start time 0,062 seconds.
+[2025.09.01-20.17.38:504][480]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.01-20.17.38:505][480]LogWorld: BeginTearingDown for /Game/Cenas/UEDPIE_0_Felipe
+[2025.09.01-20.17.38:505][480]LogWorld: UWorld::CleanupWorld for Felipe, bSessionEnded=true, bCleanupResources=true
+[2025.09.01-20.17.38:505][480]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.01-20.17.38:514][480]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.09.01-20.17.38:528][480]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.01-20.17.38:532][480]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.01-20.17.38:532][480]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2025.09.01-20.17.38:533][480]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2025.09.01-20.17.38:536][480]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2025.09.01-20.17.38:587][484]LogPlayLevel: Display: Destroying online subsystem :Context_3
+[2025.09.01-20.27.49:610][946]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2025.09.01-20.28.03:561][580]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Shape_Cube3)
+[2025.09.01-20.28.04:213][641]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight8)
+[2025.09.01-20.28.17:469][997]LogActorFactory: Actor Factory created Cylinder
+[2025.09.01-20.28.21:439][442]LogActorFactory: Actor Factory created Cylinder
+[2025.09.01-20.28.23:230][617]LogActorFactory: Actor Factory created Cylinder
+[2025.09.01-20.28.23:636][650]LogActorFactory: Actor Factory created Cylinder
+[2025.09.01-20.28.30:491][424]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight8)
+[2025.09.01-20.28.31:896][587]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cylinder)
+[2025.09.01-20.29.26:607][805]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Shape_Cube7)
+[2025.09.01-20.29.28:032][954]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cylinder)
+[2025.09.01-20.29.41:856][549]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Shape_Cube3)
+[2025.09.01-20.29.43:151][663]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cylinder)
+[2025.09.01-20.29.46:464][  7]Cmd: EDIT COPY
+[2025.09.01-20.29.46:873][ 54]Cmd: EDIT PASTE
+[2025.09.01-20.30.34:422][321]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2025.09.01-20.30.34:449][321]LogSavePackage: Moving '../../../../../../Users/felipe.lanfranchi/Documents/TCC/Sorry/Saved/Felipe_Auto149F88C6344DC2351EDFF9AA2F13D7AF8.tmp' to '../../../../../../Users/felipe.lanfranchi/Documents/TCC/Sorry/Saved/Autosaves/Game/Cenas/Felipe_Auto1.umap'
+[2025.09.01-20.30.34:451][321]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Cenas/Felipe' took 0.034
+[2025.09.01-20.30.34:451][321]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.034
+[2025.09.01-20.30.51:604][252]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight8)
+[2025.09.01-20.30.56:003][730]Cmd: DELETE
+[2025.09.01-20.30.56:006][730]Cmd: ACTOR DELETE
+[2025.09.01-20.30.56:010][730]LogEditorActor: Deleted Actor: PointLight
+[2025.09.01-20.30.56:010][730]LogEditorActor: Deleted Actor: PointLight
+[2025.09.01-20.30.56:010][730]LogEditorActor: Deleted Actor: PointLight
+[2025.09.01-20.30.56:011][730]LogEditorActor: Deleted Actor: PointLight
+[2025.09.01-20.30.56:011][730]LogEditorActor: Deleted Actor: PointLight
+[2025.09.01-20.30.56:011][730]LogEditorActor: Deleted Actor: PointLight
+[2025.09.01-20.30.56:011][730]LogEditorActor: Deleted Actor: PointLight
+[2025.09.01-20.30.56:016][730]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2025.09.01-20.30.56:017][730]LogEditorActor: Deleted 7 Actors (0.010 secs)
+[2025.09.01-20.31.01:240][349]Cmd: DELETE
+[2025.09.01-20.31.01:240][349]Cmd: ACTOR DELETE
+[2025.09.01-20.31.01:244][349]LogEditorActor: Deleted Actor: PointLight
+[2025.09.01-20.31.01:244][349]LogEditorActor: Deleted Actor: PointLight
+[2025.09.01-20.31.01:245][349]LogEditorActor: Deleted Actor: PointLight
+[2025.09.01-20.31.01:245][349]LogEditorActor: Deleted Actor: PointLight
+[2025.09.01-20.31.01:245][349]LogEditorActor: Deleted Actor: PointLight
+[2025.09.01-20.31.01:245][349]LogEditorActor: Deleted Actor: PointLight
+[2025.09.01-20.31.01:245][349]LogEditorActor: Deleted Actor: PointLight
+[2025.09.01-20.31.01:245][349]LogEditorActor: Deleted Actor: PointLight
+[2025.09.01-20.31.01:246][349]LogEditorActor: Deleted Actor: PointLight
+[2025.09.01-20.31.01:246][349]LogEditorActor: Deleted Actor: PointLight
+[2025.09.01-20.31.01:250][349]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2025.09.01-20.31.01:251][349]LogEditorActor: Deleted 10 Actors (0.010 secs)
+[2025.09.01-20.31.08:139][163]Cmd: DELETE
+[2025.09.01-20.31.08:139][163]Cmd: ACTOR DELETE
+[2025.09.01-20.31.08:141][163]LogEditorActor: Deleted Actor: PlayerStart
+[2025.09.01-20.31.08:146][163]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2025.09.01-20.31.08:148][163]LogEditorActor: Deleted 1 Actors (0.008 secs)
+[2025.09.01-20.31.13:073][736]LogTemp: Repeating last play command: Selected Viewport
+[2025.09.01-20.31.13:077][736]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.09.01-20.31.13:077][736]PIE: New page: Sessão de PIE : Felipe (1 de set de 2025 14:31:13)
+[2025.09.01-20.31.13:124][736]LogPlayLevel: Creating play world package: /Game/Cenas/UEDPIE_0_Felipe
+[2025.09.01-20.31.13:131][736]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006743s)
+[2025.09.01-20.31.13:132][736]LogAIModule: Creating AISystem for world Felipe
+[2025.09.01-20.31.13:132][736]LogPlayLevel: PIE: World Init took: (0.001164s)
+[2025.09.01-20.31.13:132][736]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Cenas/Felipe.Felipe to /Game/Cenas/UEDPIE_0_Felipe.Felipe (0.008081s)
+[2025.09.01-20.31.13:137][736]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2025.09.01-20.31.13:137][736]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2025.09.01-20.31.13:137][736]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.09.01-20.31.13:137][736]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.09.01-20.31.13:137][736]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.09.01-20.31.13:137][736]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.09.01-20.31.13:137][736]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2025.09.01-20.31.13:138][736]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.09.01-20.31.13:138][736]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2025.09.01-20.31.13:138][736]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.09.01-20.31.13:138][736]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.09.01-20.31.13:138][736]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.09.01-20.31.13:138][736]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.09.01-20.31.13:138][736]LogAudioMixer: Display: Initializing audio mixer.
+[2025.09.01-20.31.13:140][736]LogAudioMixer: Display: 0: FrontLeft
+[2025.09.01-20.31.13:140][736]LogAudioMixer: Display: 1: FrontRight
+[2025.09.01-20.31.13:147][736]LogAudioMixer: Display: Using Audio Device 22B1WG5 (NVIDIA High Definition Audio)
+[2025.09.01-20.31.13:147][736]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.09.01-20.31.13:147][736]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.09.01-20.31.13:147][736]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.09.01-20.31.13:148][736]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2025.09.01-20.31.13:148][736]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2025.09.01-20.31.13:148][736]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2025.09.01-20.31.13:149][736]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2025.09.01-20.31.13:149][736]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2025.09.01-20.31.13:149][736]LogInit: FAudioDevice initialized.
+[2025.09.01-20.31.13:149][736]LogAudio: Display: Audio Device (ID: 4) registered with world 'Felipe'.
+[2025.09.01-20.31.13:158][736]LogLoad: Game class is 'Game_C'
+[2025.09.01-20.31.13:160][736]LogWorld: Bringing World /Game/Cenas/UEDPIE_0_Felipe.Felipe up for play (max tick rate 0) at 2025.09.01-17.31.13
+[2025.09.01-20.31.13:160][736]LogWorld: Bringing up level for play took: 0.001508
+[2025.09.01-20.31.13:160][736]LogOnline: OSS: Creating online subsystem instance for: :Context_4
+[2025.09.01-20.31.13:163][736]PIE: Servidor conectado
+[2025.09.01-20.31.13:164][736]PIE: Play in editor total start time 0,087 seconds.
+[2025.09.01-20.31.18:884][414]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.01-20.31.18:884][414]LogWorld: BeginTearingDown for /Game/Cenas/UEDPIE_0_Felipe
+[2025.09.01-20.31.18:884][414]LogWorld: UWorld::CleanupWorld for Felipe, bSessionEnded=true, bCleanupResources=true
+[2025.09.01-20.31.18:885][414]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.01-20.31.18:892][414]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.09.01-20.31.18:901][414]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.01-20.31.18:906][414]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.01-20.31.18:906][414]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2025.09.01-20.31.18:907][414]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2025.09.01-20.31.18:910][414]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2025.09.01-20.31.18:953][416]LogPlayLevel: Display: Destroying online subsystem :Context_4
+[2025.09.01-20.31.42:729][226]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Shape_Cube5)
+[2025.09.01-20.31.43:499][315]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight8)
+[2025.09.01-20.32.04:602][761]MapCheck: New page: Verificação de Mapa
+[2025.09.01-20.32.04:765][761]Cmd: MAP REBUILD ALLVISIBLE
+[2025.09.01-20.32.04:765][761]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2025.09.01-20.32.04:766][761]LogWorld: UWorld::CleanupWorld for Felipe, bSessionEnded=true, bCleanupResources=false
+[2025.09.01-20.32.04:866][761]LogNavigationDataBuild: Display: UNavigationSystemV1::Build started...
+[2025.09.01-20.32.04:866][761]LogNavigationDataBuild: Display:    Building navigation data using PHYSICS_INTERFACE_PHYSX.
+[2025.09.01-20.32.04:866][761]LogNavigationDataBuild: Display:    Building navigation data using WITH_PHYSX.
+[2025.09.01-20.32.04:921][761]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2025.09.01-20.32.04:928][761]LogLevel: Display: Export Material TexCoord Scales took 0.006 seconds.
+[2025.09.01-20.32.04:929][761]TextureStreamingBuild: Display: Build Texture Streaming took 0.002 seconds.
+[2025.09.01-20.32.04:934][761]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2025.09.01-20.32.04:939][761]LightingResults: New page: Compilação de Iluminação - 1 de set de 2025 14:32:04
+[2025.09.01-20.32.04:953][761]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2025.09.01-20.32.04:958][761]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2025.09.01-20.32.04:958][761]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2025.09.01-20.32.04:959][761]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2025.09.01-20.32.04:959][761]LogSwarmInterface: [TryOpenConnection] Local Process ID is 10272
+[2025.09.01-20.32.09:537][761]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2025.09.01-20.32.09:537][761]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2025.09.01-20.32.09:537][761]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2025.09.01-20.32.09:537][761]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2025.09.01-20.32.09:538][761]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2025.09.01-20.32.09:538][761]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2025.09.01-20.32.09:617][761]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2025.09.01-20.32.09:617][761]MapCheck: New page: Felipe - 1 de set de 2025 14:32:09
+[2025.09.01-20.32.09:618][761]MapCheck: Error: WorldSettings_1 O mapa precisa de recompilação de iluminação 
+[2025.09.01-20.32.09:618][761]MapCheck: Warning: Cube_5 Static mesh actor has NULL StaticMesh property 
+[2025.09.01-20.32.09:618][761]MapCheck: Warning: Cube2 Static mesh actor has NULL StaticMesh property 
+[2025.09.01-20.32.09:618][761]MapCheck: Warning: Cube3 Static mesh actor has NULL StaticMesh property 
+[2025.09.01-20.32.09:618][761]MapCheck: Error: Cube4_11 /Game/Cenas/Felipe.Felipe:PersistentLevel.Cube4_11 : DrawScale/DrawScale3D inválido 
+[2025.09.01-20.32.09:618][761]MapCheck: Warning: Cube4_11 Static mesh actor has NULL StaticMesh property 
+[2025.09.01-20.32.09:618][761]MapCheck: Warning: Cube5_14 Static mesh actor has NULL StaticMesh property 
+[2025.09.01-20.32.09:618][761]MapCheck: Map check complete: 2 Error(s), 5 Warning(s), took 0,597ms to complete.
+[2025.09.01-20.32.09:620][761]LogEditorBuildUtils: Build time 0:04
+[2025.09.01-20.32.09:741][762]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.09.01-20.32.09:741][762]LogShaderCompilers: Display: Total job queries 0, among them cache hits 0 (0.00%)
+[2025.09.01-20.32.09:741][762]LogShaderCompilers: Display: Tracking 0 distinct input hashes that result in 0 distinct outputs (0.00%)
+[2025.09.01-20.32.09:741][762]LogShaderCompilers: Display: RAM used: 0.00 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.00%
+[2025.09.01-20.32.09:741][762]LogShaderCompilers: Display: ================================================
+[2025.09.01-20.32.09:924][764]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2025.09.01-20.32.11:225][834]Job is a success!
+[2025.09.01-20.32.11:388][836]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.010s
+[2025.09.01-20.32.11:388][836]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2025.09.01-20.32.11:388][836]LogVolumetricLightmapImport:      BrickData (all levels) 0.2Mb (trimmed 0.0Mb due to 0.010000 MinBrickError)
+[2025.09.01-20.32.11:388][836]LogVolumetricLightmapImport:      Bricks at depth
+[2025.09.01-20.32.11:388][836]LogVolumetricLightmapImport:          0: 2.0% covering 100.0% of volume
+[2025.09.01-20.32.11:388][836]LogVolumetricLightmapImport:          1: 2.0% covering 1.6% of volume
+[2025.09.01-20.32.11:388][836]LogVolumetricLightmapImport:          2: 95.9% covering 1.1% of volume
+[2025.09.01-20.32.11:388][836]LogVolumetricLightmapImport:      Bricks in each level
+[2025.09.01-20.32.11:388][836]LogVolumetricLightmapImport:          Felipe 			 49 bricks 	 100.0% (Persistent Level)
+[2025.09.01-20.32.11:449][836]LogTexture: Display: Building textures: SkyOcclusion0_1 (OODLE_AutoDXT, 512X256)
+[2025.09.01-20.32.11:449][836]LogTexture: Display: Building textures: HQ_Lightmap0_1 (OODLE_AutoDXT, 512X512)
+[2025.09.01-20.32.11:449][836]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (OODLE_DXT1, 512X512)
+[2025.09.01-20.32.11:449][836]LogTexture: Display: Building textures: SkyOcclusion0_2 (OODLE_AutoDXT, 64X32)
+[2025.09.01-20.32.11:449][836]LogTexture: Display: Building textures: HQ_Lightmap0_2 (OODLE_AutoDXT, 64X64)
+[2025.09.01-20.32.11:449][836]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (OODLE_DXT1, 64X64)
+[2025.09.01-20.32.11:449][836]LogTexture: Display: Building textures: ShadowMapTexture2D_9 (G8, 32X32)
+[2025.09.01-20.32.11:449][836]LogTexture: Display: Building textures: ShadowMapTexture2D_8 (BGRA8, 512X128)
+[2025.09.01-20.32.11:449][836]LogStaticLightingSystem: Felipe_BuiltData storing lightmap data for 20 meshes in 2 LightmapResourceClusters (10.0 Meshes per cluster).
+[2025.09.01-20.32.11:461][836]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2025.09.01-20.32.11:488][836]Lightmass on SGS1-D03: 1.14 sec total, 201 ms importing, 9 ms setup, 125 ms photons, 684 ms processing, 0 ms extra exporting [20/20 mappings]. Threads: 7.52 sec total, 1.61 sec processing.
+[2025.09.01-20.32.11:526][836]LogStaticLightingSystem: Illumination: 6.49 sec (28 ms encoding lightmaps, 19 ms encoding shadowmaps)
+[2025.09.01-20.32.11:526][836]LogStaticLightingSystem: Lightmap texture memory:  0.7 MB (0.7 MB streaming, 0.0 MB non-streaming), 4 textures
+[2025.09.01-20.32.11:526][836]LogStaticLightingSystem: Shadowmap texture memory: 0.3 MB (0.3 MB streaming, 0.0 MB non-streaming), 2 textures
+[2025.09.01-20.32.16:544][836]DumpUnbuiltLightIteractions
+[2025.09.01-20.32.16:544][836]Lights with unbuilt interactions: 0
+[2025.09.01-20.32.16:544][836]
+[2025.09.01-20.32.16:544][836]Primitives with unbuilt interactions: 0
+[2025.09.01-20.32.16:662][836]LogTexture: Display: Building textures: NewReflectionComponentTextureD6C57B644F03DADF4F2699848FAEA3C3 (BGRA8, 128X128)
+[2025.09.01-20.32.16:686][836]LogTexture: Display: Building textures: NewReflectionComponentTexture8D91C9AE4C6B8D628CDA3C848426284A (BGRA8, 128X128)
+[2025.09.01-20.32.16:756][837]Cmd: MAP CHECK NOTIFYRESULTS
+[2025.09.01-20.32.16:756][837]MapCheck: New page: Felipe - 1 de set de 2025 14:32:16
+[2025.09.01-20.32.16:756][837]MapCheck: Warning: Cube_5 Static mesh actor has NULL StaticMesh property 
+[2025.09.01-20.32.16:756][837]MapCheck: Warning: Cube2 Static mesh actor has NULL StaticMesh property 
+[2025.09.01-20.32.16:756][837]MapCheck: Warning: Cube3 Static mesh actor has NULL StaticMesh property 
+[2025.09.01-20.32.16:756][837]MapCheck: Error: Cube4_11 /Game/Cenas/Felipe.Felipe:PersistentLevel.Cube4_11 : DrawScale/DrawScale3D inválido 
+[2025.09.01-20.32.16:756][837]MapCheck: Warning: Cube4_11 Static mesh actor has NULL StaticMesh property 
+[2025.09.01-20.32.16:756][837]MapCheck: Warning: Cube5_14 Static mesh actor has NULL StaticMesh property 
+[2025.09.01-20.32.16:757][837]MapCheck: Map check complete: 1 Error(s), 5 Warning(s), took 0,612ms to complete.
+[2025.09.01-20.32.16:947][843]LogSlate: Window 'Registro de Mensagem' being destroyed
+[2025.09.01-20.32.16:958][843]LogSlate: Window 'Registro de Mensagem' being destroyed
+[2025.09.01-20.32.20:655][225]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Cenas/Felipe" FILE="../../../../../../Users/felipe.lanfranchi/Documents/TCC/Sorry/Content/Cenas/Felipe.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.09.01-20.32.20:662][225]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2025.09.01-20.32.20:687][225]LogSavePackage: Moving '../../../../../../Users/felipe.lanfranchi/Documents/TCC/Sorry/Saved/Felipe99AC6B2449F5A71A1801C79199098E90.tmp' to '../../../../../../Users/felipe.lanfranchi/Documents/TCC/Sorry/Content/Cenas/Felipe.umap'
+[2025.09.01-20.32.20:699][225]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Cenas/Felipe_BuiltData" FILE="../../../../../../Users/felipe.lanfranchi/Documents/TCC/Sorry/Content/Cenas/Felipe_BuiltData.uasset" SILENT=true
+[2025.09.01-20.32.20:722][225]LogSavePackage: Moving '../../../../../../Users/felipe.lanfranchi/Documents/TCC/Sorry/Saved/Felipe_BuiltDataCCACC3DA43B7077079B6449E124B25B5.tmp' to '../../../../../../Users/felipe.lanfranchi/Documents/TCC/Sorry/Content/Cenas/Felipe_BuiltData.uasset'
+[2025.09.01-20.32.20:732][225]AssetCheck: New page: Asset Save: multiple assets
+[2025.09.01-20.32.20:732][225]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Cenas/Felipe_BuiltData.Felipe_BuiltData
+[2025.09.01-20.32.20:732][225]LogContentValidation: Display: Validating World /Game/Cenas/Felipe.Felipe
+[2025.09.01-20.32.21:305][294]LogTemp: Repeating last play command: Selected Viewport
+[2025.09.01-20.32.21:309][294]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.09.01-20.32.21:309][294]PIE: New page: Sessão de PIE : Felipe (1 de set de 2025 14:32:21)
+[2025.09.01-20.32.21:344][294]LogPlayLevel: Creating play world package: /Game/Cenas/UEDPIE_0_Felipe
+[2025.09.01-20.32.21:350][294]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006528s)
+[2025.09.01-20.32.21:351][294]LogAIModule: Creating AISystem for world Felipe
+[2025.09.01-20.32.21:351][294]LogPlayLevel: PIE: World Init took: (0.000894s)
+[2025.09.01-20.32.21:351][294]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Cenas/Felipe.Felipe to /Game/Cenas/UEDPIE_0_Felipe.Felipe (0.007571s)
+[2025.09.01-20.32.21:356][294]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2025.09.01-20.32.21:357][294]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2025.09.01-20.32.21:357][294]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.09.01-20.32.21:357][294]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.09.01-20.32.21:357][294]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.09.01-20.32.21:357][294]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.09.01-20.32.21:357][294]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2025.09.01-20.32.21:357][294]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.09.01-20.32.21:357][294]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2025.09.01-20.32.21:357][294]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.09.01-20.32.21:357][294]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.09.01-20.32.21:357][294]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.09.01-20.32.21:357][294]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.09.01-20.32.21:357][294]LogAudioMixer: Display: Initializing audio mixer.
+[2025.09.01-20.32.21:359][294]LogAudioMixer: Display: 0: FrontLeft
+[2025.09.01-20.32.21:359][294]LogAudioMixer: Display: 1: FrontRight
+[2025.09.01-20.32.21:366][294]LogAudioMixer: Display: Using Audio Device 22B1WG5 (NVIDIA High Definition Audio)
+[2025.09.01-20.32.21:366][294]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.09.01-20.32.21:366][294]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.09.01-20.32.21:366][294]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.09.01-20.32.21:366][294]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2025.09.01-20.32.21:367][294]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2025.09.01-20.32.21:367][294]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2025.09.01-20.32.21:367][294]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2025.09.01-20.32.21:367][294]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2025.09.01-20.32.21:368][294]LogInit: FAudioDevice initialized.
+[2025.09.01-20.32.21:368][294]LogAudio: Display: Audio Device (ID: 5) registered with world 'Felipe'.
+[2025.09.01-20.32.21:373][294]LogLoad: Game class is 'Game_C'
+[2025.09.01-20.32.21:375][294]LogWorld: Bringing World /Game/Cenas/UEDPIE_0_Felipe.Felipe up for play (max tick rate 0) at 2025.09.01-17.32.21
+[2025.09.01-20.32.21:375][294]LogWorld: Bringing up level for play took: 0.001517
+[2025.09.01-20.32.21:375][294]LogOnline: OSS: Creating online subsystem instance for: :Context_5
+[2025.09.01-20.32.21:377][294]PIE: Servidor conectado
+[2025.09.01-20.32.21:378][294]PIE: Play in editor total start time 0,07 seconds.
+[2025.09.01-20.32.23:905][591]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.01-20.32.23:905][591]LogWorld: BeginTearingDown for /Game/Cenas/UEDPIE_0_Felipe
+[2025.09.01-20.32.23:906][591]LogWorld: UWorld::CleanupWorld for Felipe, bSessionEnded=true, bCleanupResources=true
+[2025.09.01-20.32.23:906][591]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.01-20.32.23:914][591]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.09.01-20.32.23:922][591]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.01-20.32.23:926][591]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.09.01-20.32.23:926][591]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2025.09.01-20.32.23:927][591]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2025.09.01-20.32.23:929][591]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.01-20.32.23:931][591]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2025.09.01-20.32.23:976][593]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2025.09.01-20.32.38:191][246]MapCheck: New page: Verificação de Mapa
+[2025.09.01-20.32.38:214][246]Cmd: MAP REBUILD ALLVISIBLE
+[2025.09.01-20.32.38:214][246]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2025.09.01-20.32.38:215][246]LogWorld: UWorld::CleanupWorld for Felipe, bSessionEnded=true, bCleanupResources=false
+[2025.09.01-20.32.38:284][246]LogNavigationDataBuild: Display: UNavigationSystemV1::Build started...
+[2025.09.01-20.32.38:284][246]LogNavigationDataBuild: Display:    Building navigation data using PHYSICS_INTERFACE_PHYSX.
+[2025.09.01-20.32.38:284][246]LogNavigationDataBuild: Display:    Building navigation data using WITH_PHYSX.
+[2025.09.01-20.32.38:357][246]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2025.09.01-20.32.38:392][246]LogLevel: Display: Export Material TexCoord Scales took 0.033 seconds.
+[2025.09.01-20.32.38:394][246]TextureStreamingBuild: Display: Build Texture Streaming took 0.002 seconds.
+[2025.09.01-20.32.38:399][246]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2025.09.01-20.32.38:403][246]LightingResults: New page: Compilação de Iluminação - 1 de set de 2025 14:32:38
+[2025.09.01-20.32.38:415][246]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2025.09.01-20.32.38:418][246]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2025.09.01-20.32.38:418][246]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2025.09.01-20.32.38:419][246]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2025.09.01-20.32.38:419][246]LogSwarmInterface: [TryOpenConnection] Local Process ID is 10272
+[2025.09.01-20.32.42:976][246]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2025.09.01-20.32.42:976][246]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2025.09.01-20.32.42:976][246]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2025.09.01-20.32.42:976][246]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2025.09.01-20.32.42:976][246]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2025.09.01-20.32.42:976][246]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2025.09.01-20.32.43:054][246]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2025.09.01-20.32.43:054][246]MapCheck: New page: Felipe - 1 de set de 2025 14:32:43
+[2025.09.01-20.32.43:054][246]MapCheck: Warning: Cube_5 Static mesh actor has NULL StaticMesh property 
+[2025.09.01-20.32.43:054][246]MapCheck: Warning: Cube2 Static mesh actor has NULL StaticMesh property 
+[2025.09.01-20.32.43:054][246]MapCheck: Warning: Cube3 Static mesh actor has NULL StaticMesh property 
+[2025.09.01-20.32.43:054][246]MapCheck: Error: Cube4_11 /Game/Cenas/Felipe.Felipe:PersistentLevel.Cube4_11 : DrawScale/DrawScale3D inválido 
+[2025.09.01-20.32.43:054][246]MapCheck: Warning: Cube4_11 Static mesh actor has NULL StaticMesh property 
+[2025.09.01-20.32.43:054][246]MapCheck: Warning: Cube5_14 Static mesh actor has NULL StaticMesh property 
+[2025.09.01-20.32.43:054][246]MapCheck: Map check complete: 1 Error(s), 5 Warning(s), took 0,658ms to complete.
+[2025.09.01-20.32.43:056][246]LogEditorBuildUtils: Build time 0:04
+[2025.09.01-20.32.43:292][248]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2025.09.01-20.32.44:342][306]Job is a success!
+[2025.09.01-20.32.44:487][308]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.010s
+[2025.09.01-20.32.44:487][308]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2025.09.01-20.32.44:487][308]LogVolumetricLightmapImport:      BrickData (all levels) 0.2Mb (trimmed 0.0Mb due to 0.010000 MinBrickError)
+[2025.09.01-20.32.44:487][308]LogVolumetricLightmapImport:      Bricks at depth
+[2025.09.01-20.32.44:487][308]LogVolumetricLightmapImport:          0: 2.0% covering 100.0% of volume
+[2025.09.01-20.32.44:487][308]LogVolumetricLightmapImport:          1: 2.0% covering 1.6% of volume
+[2025.09.01-20.32.44:487][308]LogVolumetricLightmapImport:          2: 95.9% covering 1.1% of volume
+[2025.09.01-20.32.44:487][308]LogVolumetricLightmapImport:      Bricks in each level
+[2025.09.01-20.32.44:487][308]LogVolumetricLightmapImport:          Felipe 			 49 bricks 	 100.0% (Persistent Level)
+[2025.09.01-20.32.44:558][308]LogTexture: Display: Building textures: SkyOcclusion1_1 (OODLE_AutoDXT, 512X256)
+[2025.09.01-20.32.44:558][308]LogTexture: Display: Building textures: HQ_Lightmap1_1 (OODLE_AutoDXT, 512X512)
+[2025.09.01-20.32.44:558][308]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (OODLE_DXT1, 512X512)
+[2025.09.01-20.32.44:558][308]LogTexture: Display: Building textures: SkyOcclusion1_2 (OODLE_AutoDXT, 64X32)
+[2025.09.01-20.32.44:558][308]LogTexture: Display: Building textures: HQ_Lightmap1_2 (OODLE_AutoDXT, 64X64)
+[2025.09.01-20.32.44:558][308]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (OODLE_DXT1, 64X64)
+[2025.09.01-20.32.44:558][308]LogTexture: Display: Building textures: ShadowMapTexture2D_11 (G8, 32X32)
+[2025.09.01-20.32.44:558][308]LogTexture: Display: Building textures: ShadowMapTexture2D_10 (BGRA8, 512X128)
+[2025.09.01-20.32.44:558][308]LogStaticLightingSystem: Felipe_BuiltData storing lightmap data for 20 meshes in 2 LightmapResourceClusters (10.0 Meshes per cluster).
+[2025.09.01-20.32.44:568][308]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2025.09.01-20.32.44:589][308]Lightmass on SGS1-D03: 984 ms total, 93 ms importing, 11 ms setup, 116 ms photons, 662 ms processing, 0 ms extra exporting [20/20 mappings]. Threads: 7.28 sec total, 1.69 sec processing.
+[2025.09.01-20.32.44:630][308]LogStaticLightingSystem: Illumination: 6.15 sec (27 ms encoding lightmaps, 29 ms encoding shadowmaps)
+[2025.09.01-20.32.44:630][308]LogStaticLightingSystem: Lightmap texture memory:  0.7 MB (0.7 MB streaming, 0.0 MB non-streaming), 4 textures
+[2025.09.01-20.32.44:630][308]LogStaticLightingSystem: Shadowmap texture memory: 0.3 MB (0.3 MB streaming, 0.0 MB non-streaming), 2 textures
+[2025.09.01-20.32.44:979][308]DumpUnbuiltLightIteractions
+[2025.09.01-20.32.44:979][308]Lights with unbuilt interactions: 0
+[2025.09.01-20.32.44:979][308]
+[2025.09.01-20.32.44:979][308]Primitives with unbuilt interactions: 0
+[2025.09.01-20.32.45:072][308]LogTexture: Display: Building textures: NewReflectionComponentTextureD6C57B644F03DADF4F2699848FAEA3C3 (BGRA8, 128X128)
+[2025.09.01-20.32.45:087][308]LogTexture: Display: Building textures: NewReflectionComponentTexture8D91C9AE4C6B8D628CDA3C848426284A (BGRA8, 128X128)
+[2025.09.01-20.32.45:116][309]Cmd: MAP CHECK NOTIFYRESULTS
+[2025.09.01-20.32.45:117][309]MapCheck: New page: Felipe - 1 de set de 2025 14:32:45
+[2025.09.01-20.32.45:117][309]MapCheck: Warning: Cube_5 Static mesh actor has NULL StaticMesh property 
+[2025.09.01-20.32.45:117][309]MapCheck: Warning: Cube2 Static mesh actor has NULL StaticMesh property 
+[2025.09.01-20.32.45:117][309]MapCheck: Warning: Cube3 Static mesh actor has NULL StaticMesh property 
+[2025.09.01-20.32.45:117][309]MapCheck: Error: Cube4_11 /Game/Cenas/Felipe.Felipe:PersistentLevel.Cube4_11 : DrawScale/DrawScale3D inválido 
+[2025.09.01-20.32.45:117][309]MapCheck: Warning: Cube4_11 Static mesh actor has NULL StaticMesh property 
+[2025.09.01-20.32.45:117][309]MapCheck: Warning: Cube5_14 Static mesh actor has NULL StaticMesh property 
+[2025.09.01-20.32.45:117][309]MapCheck: Map check complete: 1 Error(s), 5 Warning(s), took 0,595ms to complete.
+[2025.09.01-20.33.05:910][727]LogSlate: Window 'Registro de Mensagem' being destroyed
+[2025.09.01-20.33.05:916][727]LogSlate: Window 'Registro de Mensagem' being destroyed
+[2025.09.01-20.33.11:334][368]MapCheck: New page: Verificação de Mapa
+[2025.09.01-20.33.11:353][368]Cmd: MAP REBUILD ALLVISIBLE
+[2025.09.01-20.33.11:353][368]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2025.09.01-20.33.11:354][368]LogWorld: UWorld::CleanupWorld for Felipe, bSessionEnded=true, bCleanupResources=false
+[2025.09.01-20.33.11:381][368]LogNavigationDataBuild: Display: UNavigationSystemV1::Build started...
+[2025.09.01-20.33.11:381][368]LogNavigationDataBuild: Display:    Building navigation data using PHYSICS_INTERFACE_PHYSX.
+[2025.09.01-20.33.11:381][368]LogNavigationDataBuild: Display:    Building navigation data using WITH_PHYSX.
+[2025.09.01-20.33.11:389][368]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2025.09.01-20.33.11:395][368]LogLevel: Display: Export Material TexCoord Scales took 0.005 seconds.
+[2025.09.01-20.33.11:396][368]TextureStreamingBuild: Display: Build Texture Streaming took 0.001 seconds.
+[2025.09.01-20.33.11:400][368]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2025.09.01-20.33.11:435][368]LightingResults: New page: Compilação de Iluminação - 1 de set de 2025 14:33:11
+[2025.09.01-20.33.11:467][368]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2025.09.01-20.33.11:471][368]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2025.09.01-20.33.11:471][368]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2025.09.01-20.33.11:472][368]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2025.09.01-20.33.11:472][368]LogSwarmInterface: [TryOpenConnection] Local Process ID is 10272
+[2025.09.01-20.33.16:041][368]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2025.09.01-20.33.16:041][368]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2025.09.01-20.33.16:041][368]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2025.09.01-20.33.16:041][368]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2025.09.01-20.33.16:041][368]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2025.09.01-20.33.16:041][368]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2025.09.01-20.33.16:124][368]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2025.09.01-20.33.16:125][368]MapCheck: New page: Felipe - 1 de set de 2025 14:33:16
+[2025.09.01-20.33.16:125][368]MapCheck: Warning: Cube_5 Static mesh actor has NULL StaticMesh property 
+[2025.09.01-20.33.16:125][368]MapCheck: Warning: Cube2 Static mesh actor has NULL StaticMesh property 
+[2025.09.01-20.33.16:125][368]MapCheck: Warning: Cube3 Static mesh actor has NULL StaticMesh property 
+[2025.09.01-20.33.16:125][368]MapCheck: Error: Cube4_11 /Game/Cenas/Felipe.Felipe:PersistentLevel.Cube4_11 : DrawScale/DrawScale3D inválido 
+[2025.09.01-20.33.16:125][368]MapCheck: Warning: Cube4_11 Static mesh actor has NULL StaticMesh property 
+[2025.09.01-20.33.16:125][368]MapCheck: Warning: Cube5_14 Static mesh actor has NULL StaticMesh property 
+[2025.09.01-20.33.16:125][368]MapCheck: Map check complete: 1 Error(s), 5 Warning(s), took 0,595ms to complete.
+[2025.09.01-20.33.16:127][368]LogEditorBuildUtils: Build time 0:04
+[2025.09.01-20.33.16:336][370]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2025.09.01-20.33.17:426][437]Job is a success!
+[2025.09.01-20.33.17:589][439]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.009s
+[2025.09.01-20.33.17:589][439]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2025.09.01-20.33.17:589][439]LogVolumetricLightmapImport:      BrickData (all levels) 0.2Mb (trimmed 0.0Mb due to 0.010000 MinBrickError)
+[2025.09.01-20.33.17:589][439]LogVolumetricLightmapImport:      Bricks at depth
+[2025.09.01-20.33.17:589][439]LogVolumetricLightmapImport:          0: 2.0% covering 100.0% of volume
+[2025.09.01-20.33.17:589][439]LogVolumetricLightmapImport:          1: 2.0% covering 1.6% of volume
+[2025.09.01-20.33.17:589][439]LogVolumetricLightmapImport:          2: 95.9% covering 1.1% of volume
+[2025.09.01-20.33.17:589][439]LogVolumetricLightmapImport:      Bricks in each level
+[2025.09.01-20.33.17:589][439]LogVolumetricLightmapImport:          Felipe 			 49 bricks 	 100.0% (Persistent Level)
+[2025.09.01-20.33.17:653][439]LogTexture: Display: Building textures: SkyOcclusion0_1 (OODLE_AutoDXT, 512X256)
+[2025.09.01-20.33.17:653][439]LogTexture: Display: Building textures: HQ_Lightmap0_1 (OODLE_AutoDXT, 512X512)
+[2025.09.01-20.33.17:653][439]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (OODLE_DXT1, 512X512)
+[2025.09.01-20.33.17:653][439]LogTexture: Display: Building textures: SkyOcclusion0_2 (OODLE_AutoDXT, 64X32)
+[2025.09.01-20.33.17:653][439]LogTexture: Display: Building textures: HQ_Lightmap0_2 (OODLE_AutoDXT, 64X64)
+[2025.09.01-20.33.17:653][439]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (OODLE_DXT1, 64X64)
+[2025.09.01-20.33.17:653][439]LogTexture: Display: Building textures: ShadowMapTexture2D_13 (G8, 32X32)
+[2025.09.01-20.33.17:653][439]LogTexture: Display: Building textures: ShadowMapTexture2D_12 (BGRA8, 512X128)
+[2025.09.01-20.33.17:653][439]LogStaticLightingSystem: Felipe_BuiltData storing lightmap data for 20 meshes in 2 LightmapResourceClusters (10.0 Meshes per cluster).
+[2025.09.01-20.33.17:664][439]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2025.09.01-20.33.17:689][439]Lightmass on SGS1-D03: 1.01 sec total, 101 ms importing, 9 ms setup, 123 ms photons, 682 ms processing, 0 ms extra exporting [20/20 mappings]. Threads: 7.49 sec total, 1.65 sec processing.
+[2025.09.01-20.33.17:729][439]LogStaticLightingSystem: Illumination: 6.20 sec (27 ms encoding lightmaps, 23 ms encoding shadowmaps)
+[2025.09.01-20.33.17:729][439]LogStaticLightingSystem: Lightmap texture memory:  0.7 MB (0.7 MB streaming, 0.0 MB non-streaming), 4 textures
+[2025.09.01-20.33.17:729][439]LogStaticLightingSystem: Shadowmap texture memory: 0.3 MB (0.3 MB streaming, 0.0 MB non-streaming), 2 textures
+[2025.09.01-20.33.18:045][439]DumpUnbuiltLightIteractions
+[2025.09.01-20.33.18:045][439]Lights with unbuilt interactions: 0
+[2025.09.01-20.33.18:045][439]
+[2025.09.01-20.33.18:045][439]Primitives with unbuilt interactions: 0
+[2025.09.01-20.33.18:118][439]LogTexture: Display: Building textures: NewReflectionComponentTextureD6C57B644F03DADF4F2699848FAEA3C3 (BGRA8, 128X128)
+[2025.09.01-20.33.18:127][439]LogTexture: Display: Building textures: NewReflectionComponentTexture8D91C9AE4C6B8D628CDA3C848426284A (BGRA8, 128X128)
+[2025.09.01-20.33.18:171][440]Cmd: MAP CHECK NOTIFYRESULTS
+[2025.09.01-20.33.18:171][440]MapCheck: New page: Felipe - 1 de set de 2025 14:33:18
+[2025.09.01-20.33.18:172][440]MapCheck: Warning: Cube_5 Static mesh actor has NULL StaticMesh property 
+[2025.09.01-20.33.18:172][440]MapCheck: Warning: Cube2 Static mesh actor has NULL StaticMesh property 
+[2025.09.01-20.33.18:172][440]MapCheck: Warning: Cube3 Static mesh actor has NULL StaticMesh property 
+[2025.09.01-20.33.18:172][440]MapCheck: Error: Cube4_11 /Game/Cenas/Felipe.Felipe:PersistentLevel.Cube4_11 : DrawScale/DrawScale3D inválido 
+[2025.09.01-20.33.18:172][440]MapCheck: Warning: Cube4_11 Static mesh actor has NULL StaticMesh property 
+[2025.09.01-20.33.18:172][440]MapCheck: Warning: Cube5_14 Static mesh actor has NULL StaticMesh property 
+[2025.09.01-20.33.18:172][440]MapCheck: Map check complete: 1 Error(s), 5 Warning(s), took 0,587ms to complete.
+[2025.09.01-20.33.22:373][873]LogSlate: Window 'Registro de Mensagem' being destroyed
+[2025.09.01-20.33.22:381][873]LogSlate: Window 'Registro de Mensagem' being destroyed
+[2025.09.01-20.33.23:270][977]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Cenas/Felipe" FILE="../../../../../../Users/felipe.lanfranchi/Documents/TCC/Sorry/Content/Cenas/Felipe.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.09.01-20.33.23:277][977]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2025.09.01-20.33.23:302][977]LogSavePackage: Moving '../../../../../../Users/felipe.lanfranchi/Documents/TCC/Sorry/Saved/Felipe16C01B354509A19220A2878D3FDEBC2C.tmp' to '../../../../../../Users/felipe.lanfranchi/Documents/TCC/Sorry/Content/Cenas/Felipe.umap'
+[2025.09.01-20.33.23:317][977]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Cenas/Felipe_BuiltData" FILE="../../../../../../Users/felipe.lanfranchi/Documents/TCC/Sorry/Content/Cenas/Felipe_BuiltData.uasset" SILENT=true
+[2025.09.01-20.33.23:340][977]LogSavePackage: Moving '../../../../../../Users/felipe.lanfranchi/Documents/TCC/Sorry/Saved/Felipe_BuiltData33FE6A0C4D810C1156129BA9C748D913.tmp' to '../../../../../../Users/felipe.lanfranchi/Documents/TCC/Sorry/Content/Cenas/Felipe_BuiltData.uasset'
+[2025.09.01-20.33.23:354][977]AssetCheck: New page: Asset Save: multiple assets
+[2025.09.01-20.33.23:354][977]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Cenas/Felipe_BuiltData.Felipe_BuiltData
+[2025.09.01-20.33.23:354][977]LogContentValidation: Display: Validating World /Game/Cenas/Felipe.Felipe
+[2025.09.01-20.33.25:046][172]LogTemp: Repeating last play command: Selected Viewport
+[2025.09.01-20.33.25:050][172]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.09.01-20.33.25:050][172]PIE: New page: Sessão de PIE : Felipe (1 de set de 2025 14:33:25)
+[2025.09.01-20.33.25:085][172]LogPlayLevel: Creating play world package: /Game/Cenas/UEDPIE_0_Felipe
+[2025.09.01-20.33.25:091][172]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006242s)
+[2025.09.01-20.33.25:092][172]LogAIModule: Creating AISystem for world Felipe
+[2025.09.01-20.33.25:092][172]LogPlayLevel: PIE: World Init took: (0.000836s)
+[2025.09.01-20.33.25:092][172]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Cenas/Felipe.Felipe to /Game/Cenas/UEDPIE_0_Felipe.Felipe (0.007208s)
+[2025.09.01-20.33.25:096][172]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2025.09.01-20.33.25:097][172]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2025.09.01-20.33.25:097][172]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.09.01-20.33.25:097][172]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.09.01-20.33.25:097][172]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.09.01-20.33.25:097][172]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.09.01-20.33.25:097][172]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2025.09.01-20.33.25:097][172]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.09.01-20.33.25:097][172]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2025.09.01-20.33.25:097][172]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.09.01-20.33.25:098][172]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.09.01-20.33.25:098][172]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.09.01-20.33.25:098][172]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.09.01-20.33.25:098][172]LogAudioMixer: Display: Initializing audio mixer.
+[2025.09.01-20.33.25:100][172]LogAudioMixer: Display: 0: FrontLeft
+[2025.09.01-20.33.25:100][172]LogAudioMixer: Display: 1: FrontRight
+[2025.09.01-20.33.25:107][172]LogAudioMixer: Display: Using Audio Device 22B1WG5 (NVIDIA High Definition Audio)
+[2025.09.01-20.33.25:107][172]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.09.01-20.33.25:107][172]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.09.01-20.33.25:107][172]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.09.01-20.33.25:107][172]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2025.09.01-20.33.25:107][172]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2025.09.01-20.33.25:107][172]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2025.09.01-20.33.25:107][172]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2025.09.01-20.33.25:108][172]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2025.09.01-20.33.25:108][172]LogInit: FAudioDevice initialized.
+[2025.09.01-20.33.25:108][172]LogAudio: Display: Audio Device (ID: 6) registered with world 'Felipe'.
+[2025.09.01-20.33.25:114][172]LogLoad: Game class is 'Game_C'
+[2025.09.01-20.33.25:116][172]LogWorld: Bringing World /Game/Cenas/UEDPIE_0_Felipe.Felipe up for play (max tick rate 0) at 2025.09.01-17.33.25
+[2025.09.01-20.33.25:116][172]LogWorld: Bringing up level for play took: 0.001625
+[2025.09.01-20.33.25:116][172]LogOnline: OSS: Creating online subsystem instance for: :Context_6
+[2025.09.01-20.33.25:119][172]PIE: Servidor conectado
+[2025.09.01-20.33.25:119][172]PIE: Play in editor total start time 0,071 seconds.
+[2025.09.01-20.33.27:795][486]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.01-20.33.27:795][486]LogWorld: BeginTearingDown for /Game/Cenas/UEDPIE_0_Felipe
+[2025.09.01-20.33.27:796][486]LogWorld: UWorld::CleanupWorld for Felipe, bSessionEnded=true, bCleanupResources=true
+[2025.09.01-20.33.27:796][486]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.01-20.33.27:805][486]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.09.01-20.33.27:815][486]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.01-20.33.27:820][486]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.01-20.33.27:821][486]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2025.09.01-20.33.27:821][486]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2025.09.01-20.33.27:825][486]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2025.09.01-20.33.27:862][489]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2025.09.01-20.33.32:744][894]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Cenas/Felipe" FILE="../../../../../../Users/felipe.lanfranchi/Documents/TCC/Sorry/Content/Cenas/Felipe.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.09.01-20.33.32:748][894]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2025.09.01-20.33.32:772][894]LogSavePackage: Moving '../../../../../../Users/felipe.lanfranchi/Documents/TCC/Sorry/Saved/FelipeCE8A1CD543FF4A07BD5A8F8FFE28A981.tmp' to '../../../../../../Users/felipe.lanfranchi/Documents/TCC/Sorry/Content/Cenas/Felipe.umap'
+[2025.09.01-20.33.32:783][894]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Cenas/Felipe_BuiltData" FILE="../../../../../../Users/felipe.lanfranchi/Documents/TCC/Sorry/Content/Cenas/Felipe_BuiltData.uasset" SILENT=true
+[2025.09.01-20.33.32:805][894]LogSavePackage: Moving '../../../../../../Users/felipe.lanfranchi/Documents/TCC/Sorry/Saved/Felipe_BuiltData09971F794CC133D8C4C4269CDC464FAA.tmp' to '../../../../../../Users/felipe.lanfranchi/Documents/TCC/Sorry/Content/Cenas/Felipe_BuiltData.uasset'
+[2025.09.01-20.33.32:815][894]AssetCheck: New page: Asset Save: multiple assets
+[2025.09.01-20.33.32:815][894]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Cenas/Felipe_BuiltData.Felipe_BuiltData
+[2025.09.01-20.33.32:815][894]LogContentValidation: Display: Validating World /Game/Cenas/Felipe.Felipe
